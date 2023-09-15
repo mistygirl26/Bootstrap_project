@@ -1,0 +1,106 @@
+body{
+    background-color: #EFF1ED !important;
+}
+.colorchange{
+    color: #000 !important;
+}
+.grind{
+    width: 103px;
+}
+.nav_space{
+    padding-top: 24px;
+    padding-bottom: 35px;
+}
+.head-one{
+    font-size: 80px !important;
+    padding-bottom: 10px;
+}
+.nav-item{
+    padding-top: 0 !important;
+}
+.head-two{
+    font-size: 43px !important;
+    padding-bottom: 23px;
+}
+.btn-brd{
+    border-color: #000!important;
+}
+@media screen and ( max-width:1399px){
+    .med{
+        margin-bottom: 20px;
+    }
+}
+.buy_pic{
+    display: flex;
+}
+.head_center{
+    text-align: center;
+    background-color: #000;
+    color: white;
+    padding-top: 43px;
+    padding-bottom: 40px;
+}
+.text_centre{
+    text-align: center;
+  
+}
+.crypy_lg{
+    width: 101px;
+}
+.crypy_lgo{
+    width: 125px;
+    padding-left: 10px;
+    padding-right: 10px
+}
+.crypy_olg{
+    width: 97px;
+    padding-left: 6px;
+    padding-right: 6px
+}
+.card_text{
+    border-radius: 50px;
+    border: none;
+}
+#box_section{
+    padding-bottom: 77px;
+    padding-top: 81px;
+}
+.card-row{
+    padding-top: 40px;
+}
+
+.card_line{
+    border-radius: 18px !important;
+}
+.four-row{
+    padding-top: 100px;
+}
+@media screen and ( max-width:1199px){
+    .trad{
+        margin-bottom: 30px;
+    }
+}
+.crypt_text{
+    padding-bottom: 27px;
+}
+.side_center{
+    text-align: center;
+    padding-top: 43px;
+    padding-bottom: 40px;
+}
+.join_centre{
+    text-align: center;
+}
+.nav-item{
+    padding-right: 23px;
+    padding-top: 26px;
+}
+.navbar-collapse {
+    flex-grow: 0 !important;
+}
+.bg{
+    background-color: #000;
+}
+.ftr_text{
+    color: white !important;
+}
