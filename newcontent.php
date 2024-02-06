@@ -1,48 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link href="./style.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
-</head>
-<body>
-      <!-- navigation start-->
 
 
+<!-- banner start -->
 <div class="container">
-      <nav class="navbar navbar-expand-lg  rounded " aria-label="Eleventh navbar example">
-        <div class="container-fluid nav_space">
-          <a class="navbar-brand" href="#"><img src="images\logo.svg" class="grind" alt="logo"></a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample09" aria-controls="navbarsExample09" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-  
-          <div class="collapse navbar-collapse" id="navbarsExample09">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link active" href="#">Fatures</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link active" href="#">About</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link active" href="#">Contact Us</a>
-              </li>
-            </ul>
-            <button type="button"class="btn btn-dark">Collect Wallet</button>
-          </div>
-        </div>
-      </nav>
-    </div>
-      <!-- navigation end -->
-
-      <!-- banner start -->
-        <div class="container">
           <div class="row">
           
               <div class="col-12	col-sm-12	col-md-6	col-lg-6	col-xl-6 med	">
@@ -65,7 +24,9 @@
         </div>
 
 
-      <!-- banner end -->
+<!-- banner end -->
+
+
 
                 <!-- our tursted start -->
                   <section>
@@ -223,22 +184,3 @@
               </div>
 
               <!--  join our section end -->
-
-          <!-- footer_start -->
-          
-          <div class="container-fluid bg">
-            <footer class="py-3 my-4 ">
-              <ul class="nav justify-content-center border-bottom pb-3 mb-3">
-                <li class="nav-item"><a href="#" class="nav-link px-2  ftr_text">Home</a></li>
-                <li class="nav-item"><a href="#" class="nav-link px-2  ftr_text">Features</a></li>
-                <li class="nav-item"><a href="#" class="nav-link px-2  ftr_text">About</a></li>
-                <li class="nav-item"><a href="#" class="nav-link px-2  ftr_text">Contact Us</a></li>
-              </ul>
-              <p class="text-center ftr_text">&copy; 2023 Company, Inc</p>
-            </footer>
-          </div>
-
-          <!-- footer_end -->   
-         
-</body>
-</html>
